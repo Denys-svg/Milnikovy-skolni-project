@@ -35,4 +35,4 @@ Statický cestovatelský magazín vytvořený v HTML5 a CSS. Obsahuje tři propo
 - [x] **Rastrové fotografie ve WebP.** Parametr `fm=webp`: `index.html:54,88,101,114`; `detail.html:53,72,89,103,117`.
 - [x] **Pět obrázků detailu s `srcset` a více rozlišeními.** `detail.html:53,72,89,103,117` (každý obrázek nabízí několik šířek).
 - [x] **Wireframe jedné stránky.** Domovská stránka: `wireframe.pdf`.
-- [ ] **Odkaz na repozitář a živou verzi.** https://github.com/Denys-svg/Milnikovy-skolni-project
+- [x] **Odkaz na repozitář a živou verzi.** https://github.com/Denys-svg/Milnikovy-skolni-project
