@@ -5,15 +5,15 @@ Statický cestovatelský magazín vytvořený v HTML5 a CSS. Obsahuje tři propo
 ## Odkazy
 
 - Repozitář GitHub/GitLab: https://github.com/Denys-svg/Milnikovy-skolni-project
-- Živá verze na školním serveru: https://stratide25.llmp.spse-net.cz/milnikovy.html
+- Živá verze na školním serveru: https://stratide25.llmp.spse-net.cz/aboutme/milnikovy/index.html
 - Wireframe domovské stránky: [wireframe.pdf](wireframe.pdf)
 
 ## Soubory
 
-- `milnikovy.html` — domovská stránka
+- `index.html` — domovská stránka
 - `detail.html` — článek, galerie a slovníček
 - `kontakt.html` — informace, kontakt a mapa
-- `milnikovy.css` — barvy, rozložení a mobilní vzhled
+- `index.css` — barvy, rozložení a mobilní vzhled
 - `images/kompas.svg` — vektorové logo
 - `wireframe.pdf` — wireframe domovské stránky
 
